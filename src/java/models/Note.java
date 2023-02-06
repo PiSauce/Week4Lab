@@ -6,7 +6,7 @@ public class Note implements Serializable{
     private String title;
     private String contents;
 
-    public Note() { //TODO: I{nitialize with contents of note.txt
+    public Note() { //TODO: Initialize with contents of note.txt
         title = "";
         contents = "";
     }
